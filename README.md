@@ -10,6 +10,7 @@ Greenden is designed to provide a seamless user experience across devices of dif
 HTML: For the structure and content of the website.
 Tailwind CSS: For styling, layout, and responsiveness, including the use of the Grid feature to create flexible and efficient designs.
 Features
+Javascript: Movable Side Navbar for small screen. And product search functionality.
 Responsive Design: The website is optimized for smaller and medium screen sizes, ensuring a consistent and user-friendly experience on mobile phones, tablets, and desktops.
 Grid Layout: Utilized the Grid feature of Tailwind CSS to create a clean and organized layout that adapts well to different screen sizes.
 Stylish UI: Leveraged Tailwind CSS utility classes for a modern and cohesive look, including custom colors, typography, and spacing.
